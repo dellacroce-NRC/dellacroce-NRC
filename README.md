@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I’m Nico! 🇨🇱
+I am a Product & Behavioral Analyst working at the intersection of Political Science, Data Science, and Human Behavior. My focus is on translating complex behavioral patterns into actionable decisions for product growth, user experience, and strategy.
 
-<!--
-**dellacroce-NRC/dellacroce-NRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With a background in Political Science and a Master’s in AI applied to Behavioral Science, I bridge the gap between social science intuition and technical execution.
 
-Here are some ideas to get you started:
+🛠 Technical Toolkit
+Data & Analytics: Python (Pandas, Scikit-learn, NLP), SQL (T-SQL, MySQL), Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Product Frameworks: A/B Testing, User Clustering (K-Means), Funnel & Cohort Analysis, Flywheel Modeling.
+
+Education: Master’s in AI (UNIR, Spain) & Data Science Professional Certificate (MIT xPRO).
+
+🚀 Featured Projects
+Behavioral Segmentation & Clustering: Applied K-Means to identify friction zones and "Power User" archetypes in a PropTech ecosystem.
+
+Retail Intelligence Pipeline: An end-to-end ETL system (Python + SQL + Power BI) for real-time profitability monitoring.
