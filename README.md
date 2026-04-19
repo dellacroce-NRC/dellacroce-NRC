@@ -4,8 +4,7 @@ Product & Behavioral Data Analyst focused on translating user behavior into stru
 
 ## Technical Toolkit
 
-Python, SQL (MySQL), Power BI  
-Data Cleaning, Automation Pipelines, Behavioral Analytics
+Python, SQL (MySQL), Power BI, Excel.
 
 ## Featured Projects
 
