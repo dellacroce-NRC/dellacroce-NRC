@@ -1,21 +1,23 @@
 Hi, I'm Nico.
 
-Product & Behavioral Data Analyst focused on translating user behavior into structured insights for product and business decision-making.
+Product & Behavioral Data Analyst focused on translating user behavior, business data, and decision patterns into structured insights for product and commercial decision-making.
+
+I work with Python, SQL, Power BI, Excel, and applied AI workflows to build analytics projects that connect behavioral signals with practical business actions.
 
 ## Technical Toolkit
 
-Python, SQL (MySQL), Power BI, Excel.
+Python, SQL/MySQL, Power BI, Excel, Power Query, Power Pivot, scikit-learn, Streamlit, Plotly, Codex, generative AI workflows.
 
 ## Featured Projects
 
-Retail Analytics ETL Pipeline  
-End-to-end analytics pipeline combining Python, SQL, and Power BI to analyze sales performance and operational profitability.
+### BauData B2B Usage Analytics & Behavioral Segmentation
+Product analytics workflow using PostHog telemetry, behavioral segmentation, and Power BI to help prioritize B2B accounts, users, and commercial actions.
 
-Automated Sales Reporting Pipeline  
-Python-based data cleaning pipeline using fuzzy matching to resolve inconsistent company names and generate automated executive reports.
+### E-commerce Return Rate Analysis
+Excel-based behavioral analytics project identifying return-rate anomalies across device, channel, and product category, translating patterns into business recommendations.
 
-AI Invoice Automation Pipeline  
-Workflow built with Make.com and Generative AI to extract invoice data from Gmail and structure it automatically in Google Sheets.
+### Retail Reporting Automation with SQL and Power BI
+Reporting automation project using MySQL as a structured source, SQL for metric validation, and Power BI for a refreshable commercial dashboard.
 
-Behavioral Segmentation & Clustering  
-User segmentation using K-Means clustering to identify behavioral engagement patterns.
+### Urban Wetlands as Social Algorithms
+Interactive simulation showing how legal classification rules can be modeled as decision systems, using synthetic data and classification metrics to explore overprotection and underprotection trade-offs.
