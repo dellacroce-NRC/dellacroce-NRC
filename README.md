@@ -6,7 +6,7 @@ I work with Python, SQL, Power BI, Excel, and applied AI workflows to build anal
 
 ## Technical Toolkit
 
-Python, SQL/MySQL, Power BI, Excel, Power Query, Power Pivot, scikit-learn, Streamlit, Plotly, Codex, generative AI workflows.
+Python, SQL/MySQL, Power BI, Excel, Power Query, Power Pivot, DAX, scikit-learn, Streamlit, Codex-assisted workflows, generative AI.
 
 ## Featured Projects
 
